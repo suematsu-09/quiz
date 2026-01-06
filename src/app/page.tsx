@@ -1,4 +1,4 @@
-"use client"
+
 
 import { QuestionItem } from "@/components/QuestionItem";
 import { Results } from "@/components/Results";
