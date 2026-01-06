@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/nome-do-seu-repositorio',
+  basePath: 'https://github.com/suematsu-09/quiz',
 
   reactCompiler: true,
 };
