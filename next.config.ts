@@ -1,8 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'export',
+  basePath: '/nome-do-seu-repositorio',
+
   reactCompiler: true,
 };
 
 export default nextConfig;
+
